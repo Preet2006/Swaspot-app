@@ -1,0 +1,25 @@
+PLACEHOLDER IMAGE EXAMPLE
+
+For each image needed, you should:
+
+1. Create or find an appropriate image file
+2. Rename it to match the required name in the list (e.g., category_stationery.png)
+3. Make sure it's in PNG or JPG format
+4. Add it to the app/src/main/res/drawable folder
+
+Example for category icons:
+- Find 5 icons (one for each category)
+- Make sure they're square, ideally 96x96 pixels
+- Save them with transparent backgrounds as PNG files
+- Rename them to: category_stationery.png, category_culinary.png, etc.
+- Add them to the drawable folder
+
+Example for product images:
+- Find or take product photos for each item
+- Crop them to be rectangular (4:3 ratio works well)
+- Size them appropriately (around 400x300 pixels is good)
+- Save them as JPG or PNG files
+- Rename them to: product_waterbottle.jpg, product_phone_cover.jpg, etc.
+- Add them to the drawable folder
+
+The app has been configured to load these images by name, so as long as you use the exact filenames listed in the requirements, everything will work automatically. 

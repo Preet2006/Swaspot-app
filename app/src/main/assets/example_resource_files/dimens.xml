@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Category icon sizes -->
+    <dimen name="category_icon_size">35dp</dimen>
+    <dimen name="category_circle_size">60dp</dimen>
+    
+    <!-- Product image sizes -->
+    <dimen name="product_image_height">100dp</dimen>
+    <dimen name="product_card_corner_radius">8dp</dimen>
+    
+    <!-- Discount banner sizes -->
+    <dimen name="discount_banner_image_height">110dp</dimen>
+    <dimen name="discount_banner_corner_radius">8dp</dimen>
+</resources> 

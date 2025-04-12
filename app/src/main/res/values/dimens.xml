@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bottom navigation icon sizes -->
+    <dimen name="bottom_nav_icon_size">32dp</dimen>
+    <dimen name="profile_nav_icon_size">40dp</dimen>
+</resources> 

@@ -1,0 +1,39 @@
+PLACEHOLDER IMAGES NEEDED FOR SWAPSPOT APP
+
+Here's a list of all the image resources needed for the app:
+
+1. CATEGORY ICONS (96x96px, preferably PNG with transparency):
+   - category_stationery.png - A book, pencil, or paper icon
+   - category_culinary.png - A fork, knife, or cooking utensil icon
+   - category_electronics.png - A headphone, smartphone, or gadget icon
+   - category_clothing.png - A t-shirt, dress, or clothing item icon
+   - category_furniture.png - A chair, table, or furniture item icon
+
+2. PRODUCT IMAGES (400x300px, JPG or PNG):
+   
+   Hot Deals:
+   - product_waterbottle.jpg - A water bottle image
+   - product_phone_cover.jpg - A phone case or cover image
+   - product_wooden_chair.jpg - A wooden chair image
+   - product_refrigerator.jpg - A refrigerator image
+   
+   New Arrivals:
+   - product_cotton_dress.jpg - A cotton dress image
+   - product_leather_sneakers.jpg - A pair of leather sneakers image
+   - product_macbook.jpg - A MacBook or laptop image
+
+3. DISCOUNT BANNER (800x400px, JPG or PNG):
+   - discount_banner.jpg - A banner image showing a person (preferably showing a woman in blue dress gesturing to text area as in the reference)
+
+4. APP ICON AND LOGO:
+   - Already using logo_swap_spot.png for the app logo
+   - ic_message.png for the message icon
+
+IMAGE SPECIFICATIONS:
+- All images should be high quality and professional looking
+- Product images should have a clean, white or light background
+- Category icons should use a consistent style
+- The discount banner should match the yellow background color (#FFC107)
+
+PLACEMENT:
+All images should be placed in the app/src/main/res/drawable-xxhdpi folder for proper display on most devices. For very high resolution devices, you may want to provide -xxxhdpi versions as well. 

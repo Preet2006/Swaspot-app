@@ -1,0 +1,44 @@
+REQUIRED IMAGE FILES FOR SWAPSPOT APP
+
+Place all these image files in the drawable folder (app/src/main/res/drawable):
+
+1. CATEGORY ICONS:
+   - category_stationery.png  (for the Stationery category)
+   - category_culinary.png    (for the Culinary category)
+   - category_electronics.png (for the Electronics category)
+   - category_clothing.png    (for the Clothing category)
+   - category_furniture.png   (for the Furniture category)
+
+2. HOT DEALS PRODUCT IMAGES:
+   - product_waterbottle.png or .jpg   (for the Waterbottle product)
+   - product_phone_cover.png or .jpg   (for the Phone Cover product)
+   - product_wooden_chair.png or .jpg  (for the Wooden Chair product)
+   - product_refrigerator.png or .jpg  (for the Refrigerator product)
+
+3. NEW ARRIVALS PRODUCT IMAGES:
+   - product_cotton_dress.png or .jpg     (for the Cotton Dress product)
+   - product_leather_sneakers.png or .jpg (for the Leather Sneakers product)
+   - product_macbook.png or .jpg          (for the Macbook Air product)
+
+4. DISCOUNT BANNER:
+   - discount_banner.png or .jpg (with a person/woman image on a yellow background)
+
+5. BOTTOM NAVIGATION ICONS:
+   - nav_home.png     (for the Home navigation item)
+   - nav_compass.png  (for the Explore navigation item)
+   - nav_cart.png     (for the Cart navigation item)
+   - nav_search.png   (for the Search navigation item)
+   - nav_profile.png  (for the Profile navigation item)
+
+IMAGE RECOMMENDATIONS:
+- For best results, use transparent PNG files for icons
+- Product images should be rectangular, with a ratio of approximately 4:3
+- The discount banner should be wide, with a yellow background (#FFC107)
+- Keep all images optimized for mobile display (not too large in file size)
+
+EXISTING IMAGES (ALREADY IN PROJECT):
+- logo_swap_spot.png  (app logo in header)
+- handshake_banner.png (main hero image)
+- ic_message.png (message icon in header)
+
+Once you add all these images to the drawable folder, the app will automatically use them instead of the placeholder vector graphics. 
