@@ -6,4 +6,11 @@
     </style>
 
     <style name="Theme.Swapspot" parent="Base.Theme.Swapspot" />
+
+    <!-- Splash screen theme with no action bar -->
+    <style name="Theme.Swapspot.NoActionBar" parent="Theme.Swapspot">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
 </resources>

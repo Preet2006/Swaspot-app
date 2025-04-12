@@ -12,14 +12,44 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Swapspot"
         tools:targetApi="31">
+        
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Swapspot.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".OnboardingActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Swapspot.NoActionBar">
+        </activity>
+        
+        <activity
+            android:name=".OnboardingSecondActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Swapspot.NoActionBar">
+        </activity>
+        
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Swapspot.NoActionBar">
+        </activity>
+        
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+        </activity>
+        
+        <activity
+            android:name=".GoogleAccountActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Swapspot.NoActionBar">
         </activity>
     </application>
 
