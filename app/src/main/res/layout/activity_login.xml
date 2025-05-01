@@ -28,7 +28,7 @@
         android:id="@+id/loginTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="20dp"
         android:text="LOGIN"
         android:textColor="@android:color/black"
         android:textSize="24sp"
@@ -226,11 +226,12 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <!-- Register Link -->
+
     <TextView
         android:id="@+id/noAccountText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="32dp"
+        android:layout_marginBottom="16dp"
         android:text="Don't have an account?"
         android:textColor="@android:color/black"
         android:textSize="14sp"
@@ -255,3 +256,4 @@
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 
+ 

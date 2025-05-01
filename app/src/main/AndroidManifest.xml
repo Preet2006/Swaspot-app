@@ -55,6 +55,11 @@
             android:exported="false"
             android:theme="@style/Theme.Swapspot.NoActionBar">
         </activity>
+        
+        <activity
+            android:name=".SignupActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Swapspot.NoActionBar" />
     </application>
 
 </manifest>

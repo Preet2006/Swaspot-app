@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220149705789",
+    "project_id": "swapspot-34d70",
+    "storage_bucket": "swapspot-34d70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220149705789:android:0076a38f9e49a601af0e54",
+        "android_client_info": {
+          "package_name": "com.example.swapspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9xKrhM0VlZxNEbAlnRgNDQsbGXRJJL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
